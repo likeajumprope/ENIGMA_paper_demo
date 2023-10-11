@@ -8,7 +8,7 @@ We suggest to run this notebook within an environment. The following commands re
 ### Create an environment:
 
 ```
-conda create --name ENIGMA_site_effects
+conda create --name ENIGMA_site_effects_venv
 ```
 ### Activate your environment:
 
