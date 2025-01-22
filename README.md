@@ -1,5 +1,5 @@
 # ENIGMA paper demo
-This is a repository to demo different site effect correction methdos. This repository will be demoed at the ENIGMA methdos meeting in Antalya, 2023.
+This is a repository to demo different site effect correction methods. This repository will be demoed at the ENIGMA methdos meeting in Antalya, 2023.
 
 ## How to work with this repository:
 
